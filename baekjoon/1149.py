@@ -1,4 +1,4 @@
-# TAG: DP, dynamic programming
+# TAG: DP, dynamic_programming
 
 N_COLORS = 3
 n = int(input())

@@ -1,4 +1,4 @@
-# TAG: DP, dynamic programming
+# TAG: DP, dynamic_programming
 
 n = int(input())
 wine = [int(input()) for _ in range(n)]

@@ -1,4 +1,4 @@
-# TAG: DP, Dynamic Programming
+# TAG: DP, dynamic_programming
 
 n = int(input())
 
